@@ -18,7 +18,3 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
-
-.js-country__list {
-  list-style: none;
-}
